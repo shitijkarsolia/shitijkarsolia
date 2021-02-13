@@ -45,8 +45,8 @@ I'm a backend developer from India with cross-domain experience ranging from bui
 </a><a><img  alt="Pandas"  width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg"  />
 </a>
 
-  
-#### This Week I Spent My Time On:
+##### <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX22419517.jpg" width="19px">   Weekly Dev Breakdown:
+
 <!--START_SECTION:waka-->
 ```text
 Week: 05 February, 2021 - 12 February, 2021
