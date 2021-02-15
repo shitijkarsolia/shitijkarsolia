@@ -49,8 +49,8 @@ I'm a backend developer from India with cross-domain experience ranging from bui
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
-Markdown   11 mins         █████████████████████████   100.00 % 
+Markdown   23 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
