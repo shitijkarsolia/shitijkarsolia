@@ -9,21 +9,8 @@
 
 <a  href="https://medium.com/@shitijkarsolia">
 
-<img  align="left"  alt="Shitij's Medium"  width="22px"  src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png"  />
+<img  align="left"  alt="Shitij's Medium"  width="22px"  src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2018/png/iconmonstr-medium-3.png&r=0&g=0&b=0"  /></a>
 
-</a>
-
-<a  href="https://www.facebook.com/shitijkarsolia/">
-
-<img  align="left"  alt="Shitij Karsolia Mathur | Facebook"  width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/facebook.svg"  />
-
-</a>
-
-<a  href="https://open.spotify.com/user/9mxlkoekj92pqq0tim87hpr4q">
-
-<img  align="left"  alt="Shitij's Spotify"  width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"  />
-
-</a>
 
 <br  />
 
