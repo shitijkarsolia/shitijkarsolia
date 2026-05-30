@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Intro.gif" alt="Shitij Karsolia Mathur" width="100%" />
-</p>
-
 # Shitij Karsolia Mathur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shitijmathur/)
