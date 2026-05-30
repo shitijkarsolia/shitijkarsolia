@@ -56,13 +56,6 @@ Computer Science graduate student at Arizona State University with 4+ years of e
 - Developed a GenAI-powered RAG pipeline for Heritage Square Foundation at Opportunity Hack 2024
 - AWS Certified: Solutions Architect, DevOps Engineer, Machine Learning Specialty
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shitijkarsolia&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitijkarsolia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
-
 ## 📫 Let's Connect
 
 I'm always interested in collaborating on cloud-native and AI projects. Reach out on [LinkedIn](https://www.linkedin.com/in/shitijmathur/).
