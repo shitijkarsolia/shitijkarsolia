@@ -22,7 +22,6 @@ Computer Science graduate student at Arizona State University with 4+ years of e
 | [**road-to-reinvent25**](https://github.com/shitijkarsolia/road-to-reinvent25) | Multi-agent AI system on AWS Bedrock + Strands Agents SDK (Agents-as-Tools with Claude Vision). Built for the AWS Road to re:Invent hackathon. |
 | [**trustmed-ai**](https://github.com/shitijkarsolia/trustmed-ai) | RAG-powered medical chatbot combining clinical sources (Mayo Clinic, CDC) with patient discussions — AWS Bedrock, LangChain, OpenSearch, Chainlit. |
 | [**tcr-embedding-data-selection**](https://github.com/shitijkarsolia/tcr-embedding-data-selection) | ML research on smart data-selection for TCR-epitope binding prediction using catELMo embeddings — 0.98 AUC with only 10% of training data. |
-| [**llm-smells**](https://github.com/shitijkarsolia/llm-smells) | A field guide to LLM "smells" (AI-slop tells) plus an agent skill to detect and remove them. |
 | [**ASU-Course-Notifier**](https://github.com/shitijkarsolia/ASU-Course-Notifier) | Serverless AWS Lambda system that monitors ASU course availability and sends Telegram/SNS alerts when seats open. |
 
 ## 🛠️ Tech Stack
