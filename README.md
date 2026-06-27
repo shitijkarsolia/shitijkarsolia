@@ -49,6 +49,10 @@ Computer Science graduate student at Arizona State University with 4+ years of e
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+## Certifications
+
+<p align="left"><img src="assets/certifications/aws-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="104" /> <img src="assets/certifications/aws-devops-engineer-professional.png" alt="AWS Certified DevOps Engineer Professional" width="104" /> <img src="assets/certifications/aws-security-specialty.png" alt="AWS Certified Security Specialty" width="104" /> <img src="assets/certifications/aws-machine-learning-specialty.png" alt="AWS Certified Machine Learning Specialty" width="104" /> <img src="assets/certifications/github-foundations.png" alt="GitHub Foundations Certification" width="104" /> <img src="assets/certifications/github-actions.png" alt="GitHub Actions Certification" width="104" /></p>
+
 ## 🏆 Achievements
 
 - 2nd Place Winner — [Hack SoDA Hackathon 2024 (Amazon's Online Safety track)](https://devpost.com/software/passgen-fr5ydb)
